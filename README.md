@@ -1,6 +1,5 @@
 # 👋 Hey there! I'm Zeba Fathima
 
-> 📌 This is my personal **about-me** repository — a curated space to showcase my skills, featured projects, tech journey, and everything I've built as a Full Stack Developer. Feel free to explore and connect!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=00A884&center=true&vCenter=true&width=940&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Building+Secure+%26+Smart+Applications;Problem+Solver&theme=dark)](https://git.io/typing-svg)
 
