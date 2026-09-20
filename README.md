@@ -1,7 +1,7 @@
 # 👋 Hey there! I'm Zeba Fathima
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=00A884&center=true&vCenter=true&width=940&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Building+Secure+%26+Smart+Applications;Problem+Solver&theme=dark)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=00A884&center=true&vCenter=true&width=940&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Building+Secure+%26+Smart+Applications;Problem+Solver&theme=dark)](https://git.io/typing-svg)
 
 ---
 
@@ -131,9 +131,11 @@ const zeba = {
 ## 📊 GitHub Analytics
 
 <p align="center">
+  
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=zohhh04&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=zohhh04&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
+  <br />
 </p>
 
 ---
